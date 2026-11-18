@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://slou.moe">
-    <img src="https://files.catbox.moe/4fe3pw.jpg" alt="Banner" width="35%">
+    <img src="https://tools.intertoons.com/img/72yt7okljf.jpg" alt="Banner" width="35%">
   </a>
 </p>
 
